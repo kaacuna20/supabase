@@ -59,3 +59,9 @@ The required dependencies for this project are listed below and can be found in 
 
 ## Conclusion
 This project demonstrates the power of quick prototyping using Streamlit for data visualization and interaction. Despite the time constraint of the hackathon, the application provides a comprehensive overview of the Paris 2024 Olympic venues, making it a valuable tool for users interested in the event.
+
+## Imagenes del producto final
+
+![Diagram1](img_app1.png)
+![Diagram2](img_app2.png)
+![Diagram3](img_app3.png)
